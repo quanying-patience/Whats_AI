@@ -36,7 +36,7 @@ The demo shows:
 
 *(GUI animation will be shown here)*
 
-assets/whats-agent.gif
+![What's an Agent Demo](assets/whats-agent.gif)
 
 👉 Detailed explanation:  
 **docs/whats-agent.md**
